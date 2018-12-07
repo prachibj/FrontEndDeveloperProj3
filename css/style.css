@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+h3 {
+    display: block;
+    -webkit-margin-before: 4em;
+    -webkit-margin-after: 2em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    color: #2e2a25;
+    font-size: 2em;
+}
+
+h6 {
+    font-weight: bold;
+    color: #2e2a25;
+    font-size: 1.33em;
+    margin-bottom: 14px;
+    padding-bottom: 0;
+}
+
